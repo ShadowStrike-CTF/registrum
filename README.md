@@ -1,6 +1,6 @@
 # registrum
 
-Legal registry and record management tool. by Strategos.
+Strategos tool. Coming soon.
 
 GitHub: https://github.com/ShadowStrike-CTF/registrum
 
