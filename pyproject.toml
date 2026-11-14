@@ -8,7 +8,7 @@ build-backend = "hatchling.build"
 [project]
 name = "registrum"
 version = "1.0.0"
-description = "Legal registry and record management tool. by Strategos."
+description = "Strategos tool. Coming soon."
 readme = "README.md"
 license = {text = "Proprietary"}
 authors = [
